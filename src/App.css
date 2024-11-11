@@ -1,0 +1,82 @@
+.img-section{
+  background-image:url(./assets/bg-shadow.png) ;
+  height: 34rem;
+  border-radius: 8px;
+
+}
+.rounded{
+  border-radius: 10px 0px 0px 10px  ;
+  box-shadow: 1px 1px 3px rgba(128, 128, 128, 0.208);
+}
+.rounded2{
+  border-radius: 0px 10px 10px 0px  ;
+  background-color: transparent;
+  box-shadow: 3px 3px 10px rgba(128, 128, 128, 0.208);
+}
+.active{
+ /* px-6 py-3 bg-[#E7FE29]   text-[1.1rem] font-bold rounded2 */
+
+padding: 0.8rem 1.4rem;
+background-color: #E7FE29;
+font-size: 1.1rem;
+font-weight: 700;
+
+
+
+}
+.normal{
+  padding: 0.8rem 1.4rem;
+background-color: transparent;
+font-size: 1.1rem;
+font-weight: 700;
+}
+.px{
+  padding: 0.8rem 3rem;
+  border-radius: 8px;
+}
+
+@media  (max-width:500px) {
+  .rounded-lg{
+    border-radius: 8px;
+    margin-bottom:14px;
+  }
+  
+}
+@media  (min-width:600px) {
+  .rounded-s-lg {
+ 
+    border-radius: 8px 0px 0px 8px;
+
+  }
+  
+}
+@media (max-width:500px) {
+  
+.btn-box{
+  border-radius: 8px;
+
+
+
+
+}
+}
+@media (min-width:600px) {
+  
+  .btn-box2{
+    border-radius: 0px 8px 8px 0px;
+  
+  
+  
+  }
+  }
+.bg-photo{
+  background-image: url('./assets/bg-shadow.png');
+  padding: 10rem;
+  border-radius: 8px;
+}
+.bor{
+  border-width: 20px ;
+  border-color:rgba(81, 80, 80, 0.363) ;
+
+
+}

@@ -1,0 +1,102 @@
+[
+    {
+      "playerId": 1,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/NFkdcWq/shakib.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-handed",
+      "bowlingType": "Left-arm orthodox",
+      "biddingPrice": 800000
+    },
+    {
+      "playerId": 2,
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/2Wx33Kc/301403-6.jpg",
+      "role": "Batsman",
+      "battingType": "Left-handed",
+      "bowlingType": "None",
+      "biddingPrice": 700000
+    },
+    {
+      "playerId": 3,
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/MV7YHbt/2477d0e246a31251bf5734e26ac76efd.jpg",
+      "role": "WicketK-Bts",
+      "battingType": "Right-handed",
+      "bowlingType": "None",
+      "biddingPrice": 600000
+    },
+    {
+      "playerId": 4,
+      "name": "Mahmudullah Riyad",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/bHTpNZg/1663498489.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-handed",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 5700000
+    },
+    {
+      "playerId": 5,
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/N3rGcQj/942a4-17194584871812-1920.jpg",
+      "role": "Bowler",
+      "battingType": "Right-handed",
+      "bowlingType": "Left-arm fast-medium",
+      "biddingPrice": 9300000
+    },
+    {
+      "playerId": 6,
+      "name": "Sabbir Rahman",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/1Xp9Cpb/256000-4.jpg",
+      "role": "Batsman",
+      "battingType": "Right-handed",
+      "bowlingType": "None",
+      "biddingPrice": 9300000
+    },
+    {
+      "playerId": 7,
+      "name": "Nasir Hossain",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/nQzfqbD/536e53bf52dbe-nasir.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-handed",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 4500000
+    },
+    {
+      "playerId": 8,
+      "name": "Rubel Hossain",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/vztd4TB/rubel-hossain-15-03-2022.jpg",
+      "role": "Bowler",
+      "battingType": "Right-handed",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 6900000    },
+    {
+      "playerId": 9,
+      "name": "Soumya Sarkar",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/f11QV2R/soumya-wearing-glass-29-09-2024.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-handed",
+      "bowlingType": "Right-arm medium-fast",
+      "biddingPrice": 5800000
+    },
+    {
+      "playerId": 10,
+      "name": "Al-Amin Hossain",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/GPwzdJ7/Al-Amin-Hossain-Bangladesh.jpg",
+      "role": "Bowler",
+      "battingType": "Right-handed",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 5000000
+    }
+  ]
+  
