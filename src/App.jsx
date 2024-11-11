@@ -105,6 +105,12 @@ const remainPlayer = ChoosePlayer.filter((p) => p.playerId !== Content.playerId 
 
 setChoosePlayer(remainPlayer)
 
+toast('player removed',{
+  style:{
+    borderBottom:'4px solid orange'
+  }
+})
+
 
  }
 

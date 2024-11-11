@@ -1,9 +1,14 @@
 
 import { MdDelete } from "react-icons/md";
+import { toast } from "react-toastify";
 const Selected = ({ChoosePlayer,removeData}) => {
-    console.log(ChoosePlayer)
+
+ 
+
+
     return (
         <div className="w-full">
+   
  {
     ChoosePlayer.map((player,index) => <div className="" key={index}>
                    <div className="p-7 shadow-lg w-full rounded-lg flex justify-between items-center">
